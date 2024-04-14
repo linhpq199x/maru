@@ -59,10 +59,10 @@ _G.Races_Settings = { -- ???????????
     }
 }
 _G.Settings_Melee = { -- ???????????
-    ['Superhuman'] = false,
-    ['DeathStep'] = false,
-    ['SharkmanKarate'] = false,
-    ['ElectricClaw'] = false,
+    ['Superhuman'] = true,
+    ['DeathStep'] = true,
+    ['SharkmanKarate'] = true,
+    ['ElectricClaw'] = true,
     ['DragonTalon'] = false,
     ['Godhuman'] = false
 }
